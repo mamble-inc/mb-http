@@ -2,7 +2,7 @@
   "name": "mb-http",
   "version": "0.0.2",
   "format": "es6",
-  "registry": "npm",
+  "registry": "github",
   "jspm": {
     "main": "index",
     "directories": {
